@@ -33,7 +33,7 @@
                         <div class="position-absolute top-0 start-0 h-100 rounded-pill" style="width: 4px; opacity: 0.5; background-color: var(--nk-primary);"></div>
                         <h3 class="fw-bold text-dark mb-4">Landasan Teori (RIASEC)</h3>
                         <p class="text-muted lh-lg mb-4">
-                            Instrumen asesmen kami dibangun berlandaskan <strong>Teori Pilihan Karir Holland</strong> atau yang sering dikenal dengan metode RIASEC. Menurut teori psikologi ini, kecocokan antara kepribadian seseorang dengan lingkungan kerjanya adalah kunci utama menuju kesuksesan dan kenyamanan belajar maupun berkarir. Daripada sekadar menebak-nebak, metode ini akan membantu memetakan minat dan bakat alamimu ke dalam 6 (enam) kelompok kepribadian berikut:
+                            Instrumen asesmen kami dibangun berlandaskan <strong>Teori Pilihan Karir Holland</strong> atau yang sering dikenal dengan metode RIASEC. Menurut teori psikologi ini, kecocokan antara kepribadian seseorang dengan lingkungan kerjanya adalah kunci utama menuju kesuksesan.
                         </p>
                         
                         <div class="d-flex flex-column gap-3">
@@ -41,42 +41,42 @@
                                 <span class="riasec-letter flex-shrink-0 mt-1" style="background-color: rgba(124, 58, 237, 0.1); color: var(--nk-primary);">R</span>
                                 <div>
                                     <strong class="text-dark">Realistic (Si Praktis)</strong>
-                                    <p class="text-muted small mb-0 mt-1 lh-base">Kamu adalah tipe yang suka belajar dengan cara mempraktikkannya langsung. Kamu lebih menyukai aktivitas fisik, bekerja di lapangan, atau berinteraksi dengan mesin, alat, maupun alam daripada terlalu banyak teori di kelas.</p>
+                                    <p class="text-muted small mb-0 mt-1 lh-base">Menyukai aktivitas fisik, bekerja di lapangan, atau berinteraksi dengan mesin dan alat teknis.</p>
                                 </div>
                             </div>
                             <div class="riasec-item d-flex align-items-start gap-3">
                                 <span class="riasec-letter flex-shrink-0 mt-1" style="background-color: rgba(124, 58, 237, 0.1); color: var(--nk-primary);">I</span>
                                 <div>
                                     <strong class="text-dark">Investigative (Si Pemikir)</strong>
-                                    <p class="text-muted small mb-0 mt-1 lh-base">Punya rasa ingin tahu yang tinggi? Tipe ini gemar mengamati, meneliti, dan menganalisis sesuatu. Kamu paling senang menggunakan logika dan ilmu pengetahuan untuk memecahkan masalah yang rumit.</p>
+                                    <p class="text-muted small mb-0 mt-1 lh-base">Gemar mengamati, meneliti, dan menganalisis masalah rumit menggunakan logika.</p>
                                 </div>
                             </div>
                             <div class="riasec-item d-flex align-items-start gap-3">
                                 <span class="riasec-letter flex-shrink-0 mt-1" style="background-color: rgba(124, 58, 237, 0.1); color: var(--nk-primary);">A</span>
                                 <div>
                                     <strong class="text-dark">Artistic (Si Kreatif)</strong>
-                                    <p class="text-muted small mb-0 mt-1 lh-base">Kamu penuh imajinasi dan sangat menghargai estetika. Kamu tidak suka aturan yang terlalu mengekang dan lebih memilih lingkungan yang memberimu kebebasan untuk berekspresi, menciptakan ide, seni, atau karya yang unik.</p>
+                                    <p class="text-muted small mb-0 mt-1 lh-base">Penuh imajinasi, menghargai estetika, dan menyukai kebebasan dalam berekspresi.</p>
                                 </div>
                             </div>
                             <div class="riasec-item d-flex align-items-start gap-3">
                                 <span class="riasec-letter flex-shrink-0 mt-1" style="background-color: rgba(124, 58, 237, 0.1); color: var(--nk-primary);">S</span>
                                 <div>
                                     <strong class="text-dark">Social (Si Penolong)</strong>
-                                    <p class="text-muted small mb-0 mt-1 lh-base">Kamu sangat mudah bergaul, ramah, dan empatik. Orang dengan tipe ini mendapatkan energi dari berinteraksi dengan orang lain, serta merasa paling berharga saat bisa mendidik, menyembuhkan, atau membantu sesama.</p>
+                                    <p class="text-muted small mb-0 mt-1 lh-base">Mudah bergaul dan empatik. Mendapatkan energi dari membantu dan mendidik sesama.</p>
                                 </div>
                             </div>
                             <div class="riasec-item d-flex align-items-start gap-3">
                                 <span class="riasec-letter flex-shrink-0 mt-1" style="background-color: rgba(124, 58, 237, 0.1); color: var(--nk-primary);">E</span>
                                 <div>
                                     <strong class="text-dark">Enterprising (Si Penggerak)</strong>
-                                    <p class="text-muted small mb-0 mt-1 lh-base">Terlahir dengan jiwa kepemimpinan, kamu pandai berkomunikasi dan berani mengambil risiko. Tipe ini jago mempersuasi (meyakinkan) orang lain, suka tantangan, dan sangat cocok berada di dunia bisnis atau organisasi.</p>
+                                    <p class="text-muted small mb-0 mt-1 lh-base">Berjiwa kepemimpinan, jago persuasi, dan berani mengambil tantangan besar.</p>
                                 </div>
                             </div>
                             <div class="riasec-item d-flex align-items-start gap-3">
                                 <span class="riasec-letter flex-shrink-0 mt-1" style="background-color: rgba(124, 58, 237, 0.1); color: var(--nk-primary);">C</span>
                                 <div>
                                     <strong class="text-dark">Conventional (Si Teratur)</strong>
-                                    <p class="text-muted small mb-0 mt-1 lh-base">Kamu adalah orang yang teliti, rapi, dan terstruktur. Kamu lebih nyaman bekerja dengan data, angka, atau dokumen tertulis, serta sangat menghargai sistem kerja yang memiliki pedoman dan aturan yang jelas.</p>
+                                    <p class="text-muted small mb-0 mt-1 lh-base">Teliti dan rapi. Nyaman bekerja dengan data yang terstruktur dan aturan yang jelas.</p>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 text-center">
-                    <img src="/img/diagram.jpg" class="img-fluid animate-float" alt="RIASEC Illustration" style="max-height: 450px;">
+                    <img src="/img/diagram.jpg" class="img-fluid animate-float" alt="RIASEC Illustration" style="max-height: 400px;">
                 </div>
             </div>
         </div>
@@ -122,15 +122,15 @@
     </div>
 </div>
 
-{{-- --- TEAM SECTION (4 Orang) BAHASA FORMAL TAPI SIMPEL --- --}}
+{{-- --- TEAM SECTION (6 Orang) --- --}}
 <div class="row justify-content-center fade-in-up mb-5" style="animation-delay: 0.4s;">
     <div class="col-lg-11">
         <div class="text-center mb-5">
              <span class="badge px-3 py-2 rounded-pill fw-bold mb-3 ls-1 shadow-sm" style="background-color: rgba(124, 58, 237, 0.1); color: var(--nk-primary);">
-                TIM INOVASI
+                TIM PENGEMBANG
             </span>
-            <h2 class="fw-bold text-dark">Pengembang My Journey</h2>
-            <p class="text-muted">Mengenal tim pengembang di balik pembuatan inovasi media layanan ini.</p>
+            <h2 class="fw-bold text-dark">Kreator My Journey</h2>
+            <p class="text-muted">Tim di balik pengembangan inovasi layanan bimbingan karir ini.</p>
         </div>
 
         <div class="row g-4 justify-content-center">
@@ -141,11 +141,9 @@
                     <div class="dev-info">
                         <h6 class="fw-bold text-dark mb-1">CHALISTA DENISE PRABOWO</h6>
                         <p class="fw-bold small mb-2" style="color: var(--nk-primary);">Ketua Kelompok</p>
-                        <p class="text-muted small lh-sm mb-0">Bertugas memimpin jalannya proyek, mengatur pembagian kerja, dan memastikan inovasi ini selesai tepat waktu dengan hasil maksimal.</p>
+                        <p class="text-muted small lh-sm mb-0">Bertugas memimpin jalannya proyek dan memastikan inovasi ini selesai tepat waktu.</p>
                     </div>
-                    <div class="dev-role-vertical">
-                        <span>KETUA</span>
-                    </div>
+                    <div class="dev-role-vertical"><span>KETUA</span></div>
                 </div>
             </div>
 
@@ -156,11 +154,9 @@
                     <div class="dev-info">
                         <h6 class="fw-bold text-dark mb-1">DESYA ANISA AULIA SALAM</h6>
                         <p class="fw-bold small mb-2" style="color: var(--nk-primary);">Penyusun Materi</p>
-                        <p class="text-muted small lh-sm mb-0">Bertanggung jawab menyusun instrumen pertanyaan yang mudah dipahami siswa, serta menyajikan data rekomendasi karir secara akurat.</p>
+                        <p class="text-muted small lh-sm mb-0">Bertanggung jawab menyusun instrumen pertanyaan dan validitas data rekomendasi karir.</p>
                     </div>
-                    <div class="dev-role-vertical">
-                        <span>MATERI</span>
-                    </div>
+                    <div class="dev-role-vertical"><span>MATERI</span></div>
                 </div>
             </div>
 
@@ -171,11 +167,9 @@
                     <div class="dev-info">
                         <h6 class="fw-bold text-dark mb-1">EMILIA AINUR ROHMAH</h6>
                         <p class="fw-bold small mb-2" style="color: var(--nk-primary);">Pengembang Media</p>
-                        <p class="text-muted small lh-sm mb-0">Bertugas merangkai materi ke dalam sistem website, memastikan semua fitur dan soal tes dapat diakses siswa dengan lancar tanpa hambatan.</p>
+                        <p class="text-muted small lh-sm mb-0">Bertugas merangkai materi ke dalam sistem agar dapat diakses siswa dengan lancar.</p>
                     </div>
-                    <div class="dev-role-vertical">
-                        <span>MEDIA</span>
-                    </div>
+                    <div class="dev-role-vertical"><span>MEDIA</span></div>
                 </div>
             </div>
 
@@ -186,11 +180,33 @@
                     <div class="dev-info">
                         <h6 class="fw-bold text-dark mb-1">AHMAD GAGAH SETIAWAN</h6>
                         <p class="fw-bold small mb-2" style="color: var(--nk-primary);">Desain Visual</p>
-                        <p class="text-muted small lh-sm mb-0">Berperan merancang tata letak, warna, dan gambar agar media pembelajaran ini terlihat menarik dan tidak membosankan.</p>
+                        <p class="text-muted small lh-sm mb-0">Merancang tata letak dan estetika grafis supaya media terlihat menarik bagi siswa.</p>
                     </div>
-                    <div class="dev-role-vertical">
-                        <span>DESAIN</span>
+                    <div class="dev-role-vertical"><span>DESAIN</span></div>
+                </div>
+            </div>
+
+            {{-- Dosen Pembimbing (Anggota 5) --}}
+            <div class="col-lg-6">
+                <div class="dev-card">
+                    <div class="dev-photo" style="background-image: url('/img/pembimbing.jpg');"></div>
+                    <div class="dev-info">
+                        <h6 class="fw-bold text-dark mb-1">Dr. SITI MAS'ULA, M.Pd</h6>
+                        <p class="fw-bold small mb-0" style="color: var(--nk-primary);">Dosen Pembimbing</p>
                     </div>
+                    <div class="dev-role-vertical"><span>DOSEN</span></div>
+                </div>
+            </div>
+
+            {{-- Mentor (Anggota 6) --}}
+            <div class="col-lg-6">
+                <div class="dev-card">
+                    <div class="dev-photo" style="background-image: url('/img/mentor.jpg');"></div>
+                    <div class="dev-info">
+                        <h6 class="fw-bold text-dark mb-1">ANI NURYANI</h6>
+                        <p class="fw-bold small mb-0" style="color: var(--nk-primary);">Mentor Pendamping</p>
+                    </div>
+                    <div class="dev-role-vertical"><span>MENTOR</span></div>
                 </div>
             </div>
 
@@ -227,8 +243,6 @@
     .text-primary { color: var(--nk-primary) !important; }
     
     /* RIASEC Grid */
-    .grid-cols-2 { display: grid; grid-template-columns: 1fr 1fr; }
-    .riasec-item { display: flex; align-items: center; gap: 12px; margin-bottom: 15px; }
     .riasec-letter { 
         width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; 
         font-weight: 800; font-size: 1.3rem; border-radius: 12px;
